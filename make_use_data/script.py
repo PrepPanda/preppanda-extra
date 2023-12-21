@@ -2,6 +2,7 @@ import random
 import json
 
 user_test_data = {}
+each_test_data = {}
 
 
 def generate_stats_for_each_sub():
@@ -24,4 +25,4 @@ def generate_stats_for_each_sub():
         json.dump(user_test_data, json_file, indent=2)
 
 
-generate_stats_for_each_sub()
+# generate_stats_for_each_sub()

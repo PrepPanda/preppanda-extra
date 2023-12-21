@@ -1,0 +1,39 @@
+{
+  "test_id": "",
+  "subjects": {
+    "physics": {
+      "questions": [
+        {
+          "id": 1,
+          "time": 12,
+          "attempted": false,
+          "right": false
+        }
+      ],
+      "attempted": 173,
+      "right": 147,
+      "wrong": 26,
+      "total": 800,
+      "time_spent": 100
+    },
+    "chemistry": {
+      "attempted": 308,
+      "right": 254,
+      "wrong": 54,
+      "total": 800
+    },
+    "maths": {
+      "attempted": 483,
+      "right": 139,
+      "wrong": 344,
+      "total": 800
+    },
+    "biology": {
+      "attempted": 443,
+      "right": 436,
+      "wrong": 7,
+      "total": 800
+    }
+  },
+  "total_time": 122
+}
