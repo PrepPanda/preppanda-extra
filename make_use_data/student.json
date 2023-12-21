@@ -1,0 +1,26 @@
+{
+  "physics": {
+    "attempted": 173,
+    "right": 147,
+    "wrong": 26,
+    "total": 800
+  },
+  "chemistry": {
+    "attempted": 308,
+    "right": 254,
+    "wrong": 54,
+    "total": 800
+  },
+  "maths": {
+    "attempted": 483,
+    "right": 139,
+    "wrong": 344,
+    "total": 800
+  },
+  "biology": {
+    "attempted": 443,
+    "right": 436,
+    "wrong": 7,
+    "total": 800
+  }
+}
