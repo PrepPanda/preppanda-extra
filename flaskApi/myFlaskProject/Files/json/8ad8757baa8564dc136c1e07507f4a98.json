@@ -1,0 +1,172 @@
+[
+    {
+        "question": "What is the capital of France?",
+        "options": [
+            "Berlin",
+            "Madrid",
+            "Paris",
+            "Rome"
+        ],
+        "answer": "Paris"
+    },
+    {
+        "question": "Solve the following equation:",
+        "options": [
+            "Madrid",
+            "Paris",
+            "Rome",
+            "2x + 3 = 7"
+        ],
+        "answer": "2x + 3 = 7"
+    },
+    {
+        "question": "Which planet is known as the \"Red Planet\"?",
+        "options": [
+            "Paris",
+            "Rome",
+            "2x + 3 = 7",
+            "4x - 5 = 11"
+        ],
+        "answer": "Mars"
+    },
+    {
+        "question": "In what year did Christopher Columbus first reach the Americas?",
+        "options": [
+            "Rome",
+            "2x + 3 = 7",
+            "4x - 5 = 11",
+            "3x = 9"
+        ],
+        "answer": "1492"
+    },
+    {
+        "question": "What is the largest mammal on Earth?",
+        "options": [
+            "2x + 3 = 7",
+            "4x - 5 = 11",
+            "3x = 9",
+            "2x - 7 = 1"
+        ],
+        "answer": "Blue Whale"
+    },
+    {
+        "question": "Who painted the Mona Lisa?",
+        "options": [
+            "4x - 5 = 11",
+            "3x = 9",
+            "2x - 7 = 1",
+            "Venus"
+        ],
+        "answer": "Leonardo da Vinci"
+    },
+    {
+        "question": "What is the capital of Japan?",
+        "options": [
+            "3x = 9",
+            "2x - 7 = 1",
+            "Venus",
+            "Mars"
+        ],
+        "answer": "Tokyo"
+    },
+    {
+        "question": "Which element has the chemical symbol \"O\"?",
+        "options": [
+            "2x - 7 = 1",
+            "Venus",
+            "Mars",
+            "Jupiter"
+        ],
+        "answer": "Oxygen"
+    },
+    {
+        "question": "Who is the author of the Harry Potter series?",
+        "options": [
+            "Venus",
+            "Mars",
+            "Jupiter",
+            "Saturn"
+        ],
+        "answer": "J.K. Rowling"
+    },
+    {
+        "question": "What is the currency of Australia?",
+        "options": [
+            "Mars",
+            "Jupiter",
+            "Saturn",
+            "1492"
+        ],
+        "answer": "Dollar"
+    },
+    {
+        "question": "In what year did the Titanic sink?",
+        "options": [
+            "Jupiter",
+            "Saturn",
+            "1492",
+            "1501"
+        ],
+        "answer": "1912"
+    },
+    {
+        "question": "What is the largest ocean on Earth?",
+        "options": [
+            "Saturn",
+            "1492",
+            "1501",
+            "1607"
+        ],
+        "answer": "Pacific Ocean"
+    },
+    {
+        "question": "Which element has the chemical symbol \"O\"?",
+        "options": [
+            "1492",
+            "1501",
+            "1607",
+            "1776"
+        ],
+        "answer": "Oxygen"
+    },
+    {
+        "question": "Who is the author of the Harry Potter series?",
+        "options": [
+            "1501",
+            "1607",
+            "1776",
+            "Elephant"
+        ],
+        "answer": "J.K. Rowling"
+    },
+    {
+        "question": "What is the currency of Australia?",
+        "options": [
+            "1607",
+            "1776",
+            "Elephant",
+            "Blue Whale"
+        ],
+        "answer": "Dollar"
+    },
+    {
+        "question": "In what year did the Titanic sink?",
+        "options": [
+            "1776",
+            "Elephant",
+            "Blue Whale",
+            "Giraffe"
+        ],
+        "answer": "1912"
+    },
+    {
+        "question": "What is the largest ocean on Earth?",
+        "options": [
+            "Elephant",
+            "Blue Whale",
+            "Giraffe",
+            "Gorilla"
+        ],
+        "answer": "Pacific Oceans"
+    }
+]
