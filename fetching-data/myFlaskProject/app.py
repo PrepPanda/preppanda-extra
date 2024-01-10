@@ -4,10 +4,11 @@ import os
 from encrypt import encrypt_string
 from extract_data import extract_data
 from save_to_json import save_to_json
+from flask_cors import CORS
 
 
 app = Flask(__name__)
-
+CORS(app)
 UPLOAD_FOLDER = 'Files/data/'
 JSON_FOLDER = 'Files/json/'
 
@@ -43,7 +44,7 @@ def upload_file():
         json_filepath = os.path.join(app.config['JSON_FOLDER'], json_filename)
         save_to_json(data, json_filepath)
 
-        return jsonify({'message': 'File successfully uploaded'}), 200
+        return jsonify({'data': data, 'message': 'File successfully uploaded'}), 200
     return jsonify({'error': 'Invalid file'})
 
 

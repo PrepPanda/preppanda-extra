@@ -12,3 +12,7 @@ bin/
 include/
 lib/
 lib64/
+
+*.docx
+*.pdf
+*.json
