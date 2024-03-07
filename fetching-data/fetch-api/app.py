@@ -38,11 +38,11 @@ def upload_file():
         file.save(filepath)
 
         data = extract_data(filepath)
-        print(data)
-
-        json_filename = filename.split('.')[0] + '.json'
-        json_filepath = os.path.join(app.config['JSON_FOLDER'], json_filename)
-        save_to_json(data, json_filepath)
+#        print(data)
+#
+#        json_filename = filename.split('.')[0] + '.json'
+#        json_filepath = os.path.join(app.config['JSON_FOLDER'], json_filename)
+#        save_to_json(data, json_filepath)
 
         return jsonify({'data': data, 'message': 'File successfully uploaded'}), 200
     return jsonify({'error': 'Invalid file'})

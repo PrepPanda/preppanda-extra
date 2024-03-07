@@ -50,13 +50,15 @@ def extract_data(filename):
     options = extract_options(doc)
     answers = extract_answers(doc)
     data = []
+    j = 0
     for i in range(len(questions)):
         data.append(
             {
                 "question": questions[i],
-                "options": [options[i], options[i + 1], options[i + 2], options[i + 3]],
+                "options": [options[j], options[j + 1], options[j + 2], options[j + 3]],
                 "answer": answers[i],
             }
         )
+        j += 4
     print(data)
     return data
