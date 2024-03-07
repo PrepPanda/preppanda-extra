@@ -1,0 +1,14 @@
+*.pyc
+*~
+__pycache__
+myvenv
+myammaji
+.DS_Store
+.env
+
+venv/
+pyvenv.cfg
+bin/
+include/
+lib/
+lib64/
